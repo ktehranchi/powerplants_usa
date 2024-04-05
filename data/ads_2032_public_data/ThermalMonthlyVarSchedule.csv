@@ -1,0 +1,3215 @@
+"MONTHLYVAR","Please don't change this row, otherwise this file may not be valid anymore!"
+"Generator Name","DataTypeName","DataTypeID","Year","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"
+"150MileHouse","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"150MileHouse","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ABEC Bidart-Stockale #1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ABEC Bidart-Stockale #1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Aberdeen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aberdeen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ADS30_CT_PSCO_Almsact_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ADS30_CT_PSCO_Almsact_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ADS30_CT_PSCO_Almsact_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ADS30_CT_PSCO_Almsact_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Advanced-Nuclear-Naughton","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Advanced-Nuclear-Naughton","Derate",3,0,1,1,1,1,1,.99,.99,.99,.99,1,1,1
+"AED-U3-TG3GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AED-U3-TG3GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AED-U4-TG4GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AED-U4-TG4GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AED-U5-TG5GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AED-U5-TG5GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AERA ENERGY LLC. (COALINGA)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AERA ENERGY LLC. (COALINGA)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Afton CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Afton CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AgnewsCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AgnewsCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AgnewsCC-Total","VARMarginRatio",13,0,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594,.7594594
+"Agua Fria 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua Fria 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua Fria 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua Fria 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua Fria 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua Fria 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua Fria 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua_Mansa","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Agua_Mansa","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Agua_Mansa","VARMarginRatio",13,0,.944,.944,.944,.944,.944,.944,.944,.944,.944,.944,.944,.944
+"Aidlin_Geo1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aidlin_Geo1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Aidlin_Geo2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aidlin_Geo2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AirLiquide","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AirLiquide","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Airport 5-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Airport 5-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Airport 5-1","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"Airport Industrial","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Airport Industrial","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Alameda1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alameda1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Alameda1","VARMarginRatio",13,0,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125,.8828125
+"Alameda2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alameda2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Alameda2","VARMarginRatio",13,0,.921875,.921875,.921875,.921875,.921875,.921875,.921875,.921875,.921875,.921875,.921875,.921875
+"Alamitos CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alamitos CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Alamitos CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alamitos CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AlgonquinCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AlgonquinCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AlgonquinCC-Total","VARMarginRatio",13,0,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495,.7867495
+"Almond 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Almond 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Almond 2-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Almond 2-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Almond 2-2","VARMarginRatio",13,0,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769
+"Almond 2-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Almond 2-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Almond 2-4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Almond 2-4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Almond 2-4","VARMarginRatio",13,0,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769
+"ALPAC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ALPAC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ALPAC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ALPAC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ALPAC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ALPAC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ALPAC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ALPAC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AltaGasPark_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AltaGasPark_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"AltaGasPark_1","VARMarginRatio",13,2032,.6,.6,.6,.6,.6,.6,.6,.6,.6,.6,.6,.6
+"Altamont1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Altamont1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Amp_Chow_Bio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amp_Chow_Bio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT0_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT0_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT0_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT0_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT0_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT0_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT0_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT0_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ANC CAT07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ANC CAT07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Animas GT1A","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Animas GT1A","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Antelope Nuclear_1_9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Antelope Nuclear_1_9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache GT4","VARMarginRatio",13,0,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667,.9066667
+"Apache ST2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache ST2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apache ST3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache ST3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apex CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apex CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apex CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apex CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Apex LREGF","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apex LREGF","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arapahoe CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arapahoe CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arapahoe CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arapahoe CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Argus_Cogen8-9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Argus_Cogen8-9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arlington Valley CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arlington Valley CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arlington Valley CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arlington Valley CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arlington Valley CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Armstrong_Cogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Armstrong_Cogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ARP Loyalton Biomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ARP Loyalton Biomass","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Arvada 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arvada 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arvada 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arvada 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Arvada 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arvada 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ASU CHP","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ASU CHP","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"Badger_Creek","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Badger_Creek","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Badger_Creek","VARMarginRatio",13,0,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834,.8770834
+"Baja CA CC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Baja CA CC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Baja CA II GT 1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Baja CA II GT 1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Baja CA II GT 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Baja CA II GT 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Baja CA II GT 1-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Baja CA II GT 1-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BalzacCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BalzacCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BangorSubmarineBase1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BangorSubmarineBase1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BangorSubmarineBase2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BangorSubmarineBase2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bannock County Landfill","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bannock County Landfill","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Barber Creek 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Barber Creek 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Barber Creek 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Barber Creek 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Barber Creek 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Barber Creek 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BARRE QFS1OT0.2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BARRE QFS1OT0.2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BarrePeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BarrePeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BarrePeaker","VARMarginRatio",13,0,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818,.8581818
+"BasinCreek1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BasinCreek9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BasinCreek9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Battle River 4 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Battle River 4 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Battle River 5 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Battle River 5 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Battle_River_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Battle_River_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BearMountain_CA","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BearMountain_CA","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beaver CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beaver CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beaver CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver Creek PP","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beaver Creek PP","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beaver8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beaver8","VARMarginRatio",13,0,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592,.8979592
+"Bellshill (BHL1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bellshill (BHL1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ben French GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ben French GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ben French GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ben French GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ben French GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ben French GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ben French GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ben French GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ben French ICE 1-5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ben French ICE 1-5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BennettMountain","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BennettMountain","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BennettMountain","VARMarginRatio",13,0,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257,.8410257
+"Beowawe Power 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beowawe Power 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Beowawe Power 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Beowawe Power 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Berry Cogen 38 - Unit 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Berry Cogen 38 - Unit 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BerryPlaceritaCogen1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BerryPlaceritaCogen1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BerryTanneHills18-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BerryTanneHills18-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bidart Old River 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bidart Old River 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BiomassOneGE2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BiomassOneGE2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Birdsall 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Birdsall 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Birdsall 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Birdsall 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Birdsall 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Birdsall 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Black Mountain 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Black Mountain 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Black Mountain 1","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Black Mountain 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Black Mountain 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blackfalds (BFD1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blackfalds (BFD1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BlackSand Generating Facility1GT8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BlackSand Generating Facility1GT8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BLM EAST Facility1GT72","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BLM EAST Facility1GT72","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BLM EAST Facility1GT72","VARMarginRatio",13,0,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111,.7986111
+"Blue Mountain Biogas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blue Mountain Biogas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blue Spruce 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blue Spruce 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blue Spruce 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blue Spruce 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blue Spruce 2","VARMarginRatio",13,0,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333,.9233333
+"BlueLake","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BlueLake","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bluffview 1CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bluffview 1CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blundell1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blundell1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blundell2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blundell2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blythe CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blythe CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Blythe CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Blythe CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bonanza","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bonanza","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bonnybrook (BON1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bonnybrook (BON1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BorderPeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BorderPeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BottleRock","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BottleRock","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"BoulderPark6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BoulderPark6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bowerman Power1IC19.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bowerman Power1IC19.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brady Hot Springs OEC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brady Hot Springs OEC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brea2CC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brea2CC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brea2CC-Total","VARMarginRatio",13,0,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86
+"Brunswick Agg 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brunswick Agg 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brush CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brush CC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brush CC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brush CC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Brush CC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brush CC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Burlington","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burlington","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Burlington Oil 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burlington Oil 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Burlington Oil 1","VARMarginRatio",13,0,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381
+"Burlington Oil 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burlington Oil 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Burlington Oil 2","VARMarginRatio",13,0,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381,.952381
+"Burney","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burney","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Burney_Forest","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burney_Forest","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"C Lenzie CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C Lenzie CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"C Lenzie CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C Lenzie CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"C Lenzie CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C Lenzie CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"C Lenzie CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C Lenzie CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CacheCreekLandfill","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CacheCreekLandfill","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cal Energy Geothermal","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cal Energy Geothermal","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CALGREN-PIXLEY","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CALGREN-PIXLEY","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Calistoga1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Calistoga1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Calistoga2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Calistoga2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CalpineCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CalpineCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Canyon_Pwr1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Canyon_Pwr1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Canyon_Pwr2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Canyon_Pwr2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Canyon_Pwr3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Canyon_Pwr3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Canyon_Pwr4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Canyon_Pwr4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cargill IC Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cargill IC Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CariboPulpPaper1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CariboPulpPaper1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CariboPulpPaper2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CariboPulpPaper2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarlsbadEC1-GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarlsbadEC1-GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarlsbadEC1-GT1","VARMarginRatio",13,0,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88
+"CarlsbadEC1-GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarlsbadEC1-GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarlsbadEC1-GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarlsbadEC1-GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarlsbadEC1-GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarlsbadEC1-GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarlsbadEC1-GT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarlsbadEC1-GT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Carsela1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Carsela1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Carson Ice CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Carson Ice CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Carson Ice Peaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Carson Ice Peaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Carson Lakes","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Carson Lakes","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CarsonCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CarsonCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CartyGenStaCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CartyGenStaCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Casa Diablo IVST14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Casa Diablo IVST14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cascade CC Phs 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cascade CC Phs 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cascade CC Phs 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cascade CC Phs 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Castroville QF Aggregate","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Castroville QF Aggregate","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CavalierCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CavalierCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CE Turbo1ST11.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CE Turbo1ST11.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Celgar_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Celgar_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Celgar_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Celgar_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Center Peaker1GT47.11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Center Peaker1GT47.11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto1-5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto1-5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto2-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto2-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto3-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto3-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto4-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto4-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto4-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto4-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto4-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto4-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CerroPrieto4-4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CerroPrieto4-4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ces Dairy Biogas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ces Dairy Biogas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chalk_Cliff","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chalk_Cliff","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Channel Islands Power1CC27.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Channel Islands Power1CC27.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chehalis CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chehalis CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chehalis CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chehalis CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chehalis CC1b","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"Cherokee 4 Coal","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cherokee 4 Coal","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cherokee CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cherokee CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cherokee CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cherokee CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chetwynd_Bio1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chetwynd_Bio1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CHEV.USA_35052_RT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CHEV.USA_35052_RT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CHEV.USA_35052_RT","VARMarginRatio",13,0,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914,.7214914
+"Cheyenne Prairie 1CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cheyenne Prairie 1CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cheyenne Prairie 1CC","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"Cheyenne Prairie 2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cheyenne Prairie 2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cheyenne Prairie 2-1","VARMarginRatio",13,0,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958,.7765958
+"CHINO QFS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CHINO QFS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chiquita Canyon Landfill Fac1GT8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chiquita Canyon Landfill Fac1GT8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chowchilla2_01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chowchilla2_01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Chula_Vista","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chula_Vista","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cipres1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cipres1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CIPV GT Agg Kings Co 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CIPV GT Agg Kings Co 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CIPV IC Agg Solano Co 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CIPV IC Agg Solano Co 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CISC GT Agg Multi-Co 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CISC GT Agg Multi-Co 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"City of Sunnyvale Unit 1 and 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"City of Sunnyvale Unit 1 and 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Civic Center CHP","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Civic Center CHP","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 17","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 17","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 18","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 18","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 19","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 19","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 20","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 20","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 21","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 21","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 22","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 22","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark CC2a","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Clark CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark Mountain 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark Mountain 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark Mountain 3","VARMarginRatio",13,0,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333
+"Clark Mountain 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clark Mountain 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clark Mountain 4","VARMarginRatio",13,0,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333,.9333333
+"ClearwaterCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClearwaterCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ClearwaterCC-Total","VARMarginRatio",13,0,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86
+"ClearwaterPaper3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClearwaterPaper3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ClearwaterPaper4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClearwaterPaper4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Clover Flat Land Fill Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clover Flat Land Fill Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cloverbar_GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cloverbar_GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cloverbar_GT1","VARMarginRatio",13,0,.9375,.9375,.9375,.9375,.9375,.9375,.9375,.9375,.9375,.9375,.9375,.9375
+"Cloverbar_GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cloverbar_GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cloverbar_GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cloverbar_GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CLTNCTRY_25302_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CLTNCTRY_25302_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CLTNCTRY_25302_1","VARMarginRatio",13,0,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186
+"CMH Unit 17 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMH Unit 17 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CMH Unit 17 Gas","VARMarginRatio",13,0,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818,.9431818
+"CMH_3_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMH_3_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coachella 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coachella 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coachella 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coachella 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coachella 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coachella 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coachella 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coachella 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coaldale (COD1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coaldale (COD1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coalinga_25D1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coalinga_25D1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coffin Butte Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coffin Butte Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cold Canyon","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cold Canyon","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Collins_Pine","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Collins_Pine","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Colstrip_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Colstrip_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Colstrip_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Colstrip_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Colstrip_Energy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Colstrip_Energy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Columbia Ridge Landfill Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Columbia Ridge Landfill Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Columbia2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Columbia2","Derate",3,0,1,1,1,1,1,.99,.99,.99,.99,1,1,1
+"Colusa CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Colusa CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Colusa CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Colusa CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Comanche 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Comanche 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Conifex_Green","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Conifex_Green","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CONTROL QFS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CONTROL QFS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 01","VARMarginRatio",13,0,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924
+"Coolidge 02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 04","VARMarginRatio",13,0,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571
+"Coolidge 05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 05","VARMarginRatio",13,0,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571
+"Coolidge 06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 06","VARMarginRatio",13,0,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571
+"Coolidge 07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 07","VARMarginRatio",13,0,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571,.9428571
+"Coolidge 08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 10","VARMarginRatio",13,0,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924
+"Coolidge 11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coolidge 11","VARMarginRatio",13,0,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924,.924
+"Coolidge 12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coolidge 12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CoolwaterCC3-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CoolwaterCC3-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CoolwaterCC4-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CoolwaterCC4-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Copper_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Copper_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Copper_1","VARMarginRatio",13,0,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647,.9117647
+"Coronado CO1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coronado CO1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coronado CO2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coronado CO2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cosmo 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cosmo 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso1_Navy1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso1_Navy1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso2_Navy1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso2_Navy1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso3_Navy1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso3_Navy1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso4_Navy2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso4_Navy2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso5_Navy2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso5_Navy2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Coso6_Navy2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Coso6_Navy2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cosumnes CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cosumnes CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Cosumnes CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cosumnes CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CoyoteSprgCC1-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CoyoteSprgCC1-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CoyoteSprgCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CoyoteSprgCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CPeakPanochePkr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CPeakPanochePkr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CPeakPanochePkr","VARMarginRatio",13,0,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276,.8448276
+"Creed_Energy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Creed_Energy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Creed_Energy","VARMarginRatio",13,0,.912,.912,.912,.912,.912,.912,.912,.912,.912,.912,.912,.912
+"Crockett_Cogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Crockett_Cogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Crosscut","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Crosscut","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Crowsnest_Pass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Crowsnest_Pass","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Crystal Mountain1IC2.75","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Crystal Mountain1IC2.75","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CSUSB fuel cell","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CSUSB fuel cell","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"CT_88_IRP","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CT_88_IRP","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Currant Creek CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Currant Creek CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Currant Creek CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Currant Creek CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Currant Creek CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"CYMRIC_115_GN1_35032_RT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CYMRIC_115_GN1_35032_RT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Daishowa_G2_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Daishowa_G2_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dale Burgett Geothermal","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dale Burgett Geothermal","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Gates1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Gates1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Gates2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Gates2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Gates3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Gates3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Johnston_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Johnston_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Johnston_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Johnston_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Johnston_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Johnston_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dave_Johnston_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dave_Johnston_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DCFP_GEN","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DCFP_GEN","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Del Ranch Company","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Del Ranch Company","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Delta EC CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Delta EC CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Delta EC CC1a","VARMarginRatio",13,0,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95
+"Delta EC CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Delta EC CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Delta EC CC1b","VARMarginRatio",13,0,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95
+"Delta EC CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Delta EC CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Delta EC CC1c","VARMarginRatio",13,0,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95
+"DeMoss Petrie","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DeMoss Petrie","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DeMoss Petrie","VARMarginRatio",13,0,.9125,.9125,.9125,.9125,.9125,.9125,.9125,.9125,.9125,.9125,.9125,.9125
+"Desert Basin CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert Basin CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Desert Basin CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert Basin CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Desert Basin CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Desert Peak 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert Peak 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Desert Star CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert Star CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Desert Star CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert Star CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Desert View","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Desert View","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DESRT P2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DESRT P2","Derate",3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DESRT P2","VARMarginRatio",13,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DiabloCanyon1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DiabloCanyon1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DiabloCanyon2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DiabloCanyon2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DIXIE M P1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DIXIE M P1","Derate",3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DIXIE M P1","VARMarginRatio",13,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DIXIE M P12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DIXIE M P12","Derate",3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DIXIE M P12","VARMarginRatio",13,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dixie Meadows (Bannock)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dixie Meadows (Bannock)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Dixie Valley Geo 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dixie Valley Geo 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Don Von Raesfeld CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Don Von Raesfeld CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Don Von Raesfeld CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Don Von Raesfeld CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DoubleC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DoubleC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Douglas 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Douglas 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"DowCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DowCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Drews1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Drews1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Drews1","VARMarginRatio",13,0,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186,.8771186
+"Dry Fork Station","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dry Fork Station","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Drywood_2_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Drywood_2_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Drywood1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Drywood1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Eastridge1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Eastridge1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EF_Oxnard","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EF_Oxnard","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ejido San Luis CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ejido San Luis CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ejido San Luis CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ejido San Luis CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"El Centro CC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El Centro CC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"El Centro CC3a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El Centro CC3a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"El Centro CC3b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El Centro CC3b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"El Centro CC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El Centro CC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"El_Cajon_EC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El_Cajon_EC","Derate",3,0,1,1,1,1,1,.89,.89,.89,.89,1,1,1
+"El_Cajon_GT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"El_Cajon_GT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Elk Hills CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Elk Hills CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Elk Hills CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Elk Hills CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ELLIS QFS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ELLIS QFS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ellwood_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ellwood_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ellwood_1","VARMarginRatio",13,0,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429,.8571429
+"ElmworthG10_10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG10_10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElmworthG5_5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG5_5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElmworthG6_6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG6_6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElmworthG7_7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG7_7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElmworthG8_8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG8_8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElmworthG9_9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElmworthG9_9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElNidoFacility","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElNidoFacility","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElSegndCogCC1-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElSegndCogCC1-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElSegndCogCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElSegndCogCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElSegndCogCC3-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElSegndCogCC3-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElSegndEnrgCC1-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElSegndEnrgCC1-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ElSegndEnrgCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ElSegndEnrgCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EncogenCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EncogenCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EnelCoveFort1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EnelCoveFort1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EnterprisePeakr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EnterprisePeakr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ethel Lake 717S DER Wasteheat","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ethel Lake 717S DER Wasteheat","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ETIWND_2_UNIT11GT33.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ETIWND_2_UNIT11GT33.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ETIWND_2_UNIT11GT33.6","VARMarginRatio",13,0,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571,.8928571
+"EvanderAndrews1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EvanderAndrews1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EvanderAndrews2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EvanderAndrews2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"EvanderAndrews2","VARMarginRatio",13,0,.908,.908,.908,.908,.908,.908,.908,.908,.908,.908,.908,.908
+"EvanderAndrews3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EvanderAndrews3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Evergreen_Bio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Evergreen_Bio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Farm Power Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Farm Power Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Feather_River","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feather_River","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fellow_QF","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fellow_QF","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FerndaleCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FerndaleCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fighting Creek Landfill Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fighting Creek Landfill Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Finley BioEnergy Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Finley BioEnergy Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Firebag3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Firebag3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Firebag4-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Firebag4-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Firebag4-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Firebag4-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fiscalini1IC0.69","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fiscalini1IC0.69","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Flathead County Landfill Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Flathead County Landfill Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Forest Glen Oaks Dairy (RES AgIC1IC0.37","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Forest Glen Oaks Dairy (RES AgIC1IC0.37","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort Lupton 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort Lupton 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort Lupton 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort Lupton 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain 7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain 7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain 8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain 8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain 9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain 9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort St Vrain CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort St Vrain CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fort_St_James","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fort_St_James","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FortNelson1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FortNelson1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FortNelson1","VARMarginRatio",13,0,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965
+"FortNelson2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FortNelson2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FortNelson2","VARMarginRatio",13,0,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965,.9413965
+"Forward","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Forward","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FosterWhlrCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FosterWhlrCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 1","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Fountain Valley 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 2","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Fountain Valley 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 3","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Fountain Valley 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 4","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Fountain Valley 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 5","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Fountain Valley 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fountain Valley 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fountain Valley 6","VARMarginRatio",13,0,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286,.9464286
+"Frank Knutson 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Frank Knutson 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Frank Knutson 1","VARMarginRatio",13,0,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333
+"Frank Knutson 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Frank Knutson 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Frank Knutson 2","VARMarginRatio",13,0,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333
+"FraserLake1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FraserLake1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FraserLake2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FraserLake2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Frederickson1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Frederickson1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Frederickson2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Frederickson2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FredericksonCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FredericksonCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Fredonia_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fredonia_1","Derate",3,0,1,1,1,1,1,.82,.82,.82,.82,1,1,1
+"Fredonia_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fredonia_2","Derate",3,0,1,1,1,1,1,.82,.82,.82,.82,1,1,1
+"Fredonia_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fredonia_3","Derate",3,0,1,1,1,1,1,.78,.78,.78,.78,1,1,1
+"Fredonia_3","VARMarginRatio",13,0,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918
+"Fredonia_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fredonia_4","Derate",3,0,1,1,1,1,1,.78,.78,.78,.78,1,1,1
+"Fredonia_4","VARMarginRatio",13,0,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918,.7704918
+"Fresno Peaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fresno Peaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"FresnoCogenCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FresnoCogenCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Frito_Lay_Cogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Frito_Lay_Cogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Front Range CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Front Range CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Front Range CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Front Range CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Front Range CC1b","VARMarginRatio",13,0,.96,.96,.96,.96,.96,.96,.96,.96,.96,.96,.96,.96
+"Fruita","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fruita","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Future Geo (1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Future Geo (1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"G2 ENERGY OSTROM ROAD LLC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"G2 ENERGY OSTROM ROAD LLC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_4","VARMarginRatio",13,0,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715,.8785715
+"Gadsby_5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_5","VARMarginRatio",13,0,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619,.9047619
+"Gadsby_6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gadsby_6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gadsby_6","VARMarginRatio",13,0,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857,.8142857
+"Galena 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Galena 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Galena 3-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Galena 3-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Galena 3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Galena 3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)10GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)10GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)11GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)11GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)12GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)12GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)13GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)13GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)14GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)14GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)15GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)15GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)16GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)16GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)17GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)17GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)18GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)18GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)19GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)19GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)1GT33","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)1GT33","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)20GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)20GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)2GT33","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)2GT33","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)3GT33","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)3GT33","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)4GT33","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)4GT33","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)5GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)5GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)6GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)6GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)7GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)7GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)8GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)8GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gas (Peaking)9GT50","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gas (Peaking)9GT50","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gateway CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gateway CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gateway CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gateway CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCC CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCC CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCC CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCC CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCogen_D","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCogen_D","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCogen_E","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCogen_E","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCogen_F1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCogen_F1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCogen_F2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCogen_F2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GCogen_G","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GCogen_G","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Genesee 1 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Genesee 1 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Genesee 2 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Genesee 2 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Genesee 3 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Genesee 3 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geo East Mesa 2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geo East Mesa 2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geo East Mesa 3-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geo East Mesa 3-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geo East Mesa 3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geo East Mesa 3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GeoGen Co","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GeoGen Co","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Georgia-Pacific (Toledo)ST1ST24","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Georgia-Pacific (Toledo)ST1ST24","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geothermal 1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geothermal 1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geothermal 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geothermal 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geothermal 2 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geothermal 2 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geothermal 2 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geothermal 2 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers17","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers17","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers18","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers18","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Geysers20","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Geysers20","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gianera 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gianera 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gianera 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gianera 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC1b","VARMarginRatio",13,0,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86
+"Gila River CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC2b","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"Gila River CC3a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC3a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC3b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC3b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC3b","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"Gila River CC4a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC4a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC4b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gila River CC4b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gila River CC4b","VARMarginRatio",13,0,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89
+"GilroyCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GilroyCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GilroyCC-Total","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"GilroyEnergyPeaking1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GilroyEnergyPeaking1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GilroyEnergyPeaking2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GilroyEnergyPeaking2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GilroyEnergyPeaking3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GilroyEnergyPeaking3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GLEN ARM UNIT 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GLEN ARM UNIT 2","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Glenarm_GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glenarm_GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Glenarm_GT1","VARMarginRatio",13,0,.884,.884,.884,.884,.884,.884,.884,.884,.884,.884,.884,.884
+"Glenarm_GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glenarm_GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Glenarm_GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glenarm_GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Glenarm_GT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glenarm_GT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Glenarm_GT5","VARMarginRatio",13,0,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571,.7228571
+"Goal Line Cogen1GT49.9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Goal Line Cogen1GT49.9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gold_Creek1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gold_Creek1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Golden_Biomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Golden_Biomass","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GoldendaleCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GoldendaleCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GOLETA QFS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GOLETA QFS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Goodsprings Waste Heat RecoverHR1ST7.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Goodsprings Waste Heat RecoverHR1ST7.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Goose_Haven","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Goose_Haven","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GOR-U1-TG1GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GOR-U1-TG1GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GOR-U2-TG2GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GOR-U2-TG2GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GP Wauna Mill (CG)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GP Wauna Mill (CG)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GP_CHP1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GP_CHP1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Grant Village Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grant Village Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"GrapelandPeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GrapelandPeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Grays Harbor CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grays Harbor CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Grays Harbor CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grays Harbor CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Grayson CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grayson CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Greater Nanaimo PCC Cogenerati1IC0.33","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Greater Nanaimo PCC Cogenerati1IC0.33","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Greater_Imperial_Geothermal (Generic)ST600","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Greater_Imperial_Geothermal (Generic)ST600","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Greenleaf2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Greenleaf2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Griffith CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Griffith CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Griffith CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Griffith CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Grossmont Hospital1GT4.12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grossmont Hospital1GT4.12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H Wilson Sundt 4 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H Wilson Sundt 4 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H Wilson Sundt GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H Wilson Sundt GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H Wilson Sundt GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H Wilson Sundt GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H Wilson Sundt ST3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H Wilson Sundt ST3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H. Gonzales Unit #21GT5.75","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H. Gonzales Unit #21GT5.75","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H.R. Milner (HRM)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H.R. Milner (HRM)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"H.R. Milner (HRM)","VARMarginRatio",13,0,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807,.7129807
+"Hampton Lumber MillST1ST7.25","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hampton Lumber MillST1ST7.25","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HanfordEnergy1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HanfordEnergy1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor CC1CC215","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor CC1CC215","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor Unit 10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor Unit 10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor Unit 11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor Unit 11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor Unit 12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor Unit 12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor Unit 13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor Unit 13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harbor Unit 14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harbor Unit 14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HarborCgnCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HarborCgnCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hardin","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hardin","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harmac_Biomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harmac_Biomass","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HARMATT10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HARMATT10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HARMATT11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HARMATT11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HarquahalaCC1-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HarquahalaCC1-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HarquahalaCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HarquahalaCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HarquahalaCC3-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HarquahalaCC3-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harry Allen CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harry Allen CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harry Allen CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harry Allen CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harry Allen GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harry Allen GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harry Allen GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Harry Allen GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Harry Allen GT4","VARMarginRatio",13,0,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263,.9305263
+"Hartland LF 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hartland LF 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hartland LF2IC1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hartland LF2IC1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hartzog 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hartzog 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hartzog 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hartzog 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hartzog 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hartzog 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hayden 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hayden 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hayden 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hayden 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 12","VARMarginRatio",13,0,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804
+"Haynes 12CC12CC444","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 12CC12CC444","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 15","VARMarginRatio",13,0,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804,.9509804
+"Haynes 16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Haynes CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haynes CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Heartland Petrochemical (HRT1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Heartland Petrochemical (HRT1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Heber 1 Geothermal1ST35","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Heber 1 Geothermal1ST35","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Heber Geo Complex","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Heber Geo Complex","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Henrietta1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Henrietta1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Henrietta2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Henrietta2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HermistnGenCC1-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HermistnGenCC1-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HermistnGenCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HermistnGenCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hermiston Pwr CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hermiston Pwr CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hermiston Pwr CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hermiston Pwr CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hermiston Pwr CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Hidden Hollow Landfill Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hidden Hollow Landfill Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Higgins CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Higgins CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Higgins CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Higgins CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"High Desert CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"High Desert CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"High Desert CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"High Desert CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"High Desert CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"High Desert CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"High Sierra Cogeneration Aggregate","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"High Sierra Cogeneration Aggregate","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HighSierra","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HighSierra","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HighSierra1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HighSierra1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Holly1IC0.68","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Holly1IC0.68","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Holly2IC0.4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Holly2IC0.4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Holly3IC1.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Holly3IC1.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HoneyLakePower","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HoneyLakePower","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Houwelings Nurseries ICE","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Houwelings Nurseries ICE","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HoweSoundGreen1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HoweSoundGreen1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HoweSoundGreen2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HoweSoundGreen2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hudson Ranch I","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hudson Ranch I","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Humboldt Redwood 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Humboldt Redwood 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Humboldt Redwood 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Humboldt Redwood 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Humboldt Redwood 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Humboldt Redwood 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HumboldtBayIC10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HumboldtBayIC10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hunter_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hunter_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hunter_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hunter_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hunter_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hunter_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Huntington Beach CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Huntington Beach CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Huntington Beach CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Huntington Beach CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Huntington_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Huntington_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Huntington_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Huntington_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"HZIU Kompogas SLO","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HZIU Kompogas SLO","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Indigo1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Indigo1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Indigo1","VARMarginRatio",13,0,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276
+"Indigo2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Indigo2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Indigo2","VARMarginRatio",13,0,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276,.8221276
+"Indigo3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Indigo3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Indigo3","VARMarginRatio",13,0,.805,.805,.805,.805,.805,.805,.805,.805,.805,.805,.805,.805
+"IntercontPulp","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IntercontPulp","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Intermountain CC 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Intermountain CC 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Intermountain CC 1","VARMarginRatio",13,0,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92
+"Intermountain CC 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Intermountain CC 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Intermountain CC 2","VARMarginRatio",13,0,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92,.92
+"InternationalPaperEnergyCenter","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"InternationalPaperEnergyCenter","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"InternationalPaperEnergyCenter 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"InternationalPaperEnergyCenter 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"IRC Generator Facility Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IRC Generator Facility Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"IslandCogenCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IslandCogenCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"JC-BiomethaneIC1IC1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JC-BiomethaneIC1IC1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jersey Valley 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jersey Valley 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jersey Valley 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jersey Valley 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jim_Bridger_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jim_Bridger_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jim_Bridger_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jim_Bridger_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jim_Bridger_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jim_Bridger_3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Jim_Bridger_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jim_Bridger_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"JJ Elmore","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JJ Elmore","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"JM Shafer CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JM Shafer CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Johnson Canyon Landfill","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Johnson Canyon Landfill","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KamloopsGreen3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KamloopsGreen3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Keephills1_Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keephills1_Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Keephills3_Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keephills3_Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Keephils2_Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keephils2_Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KELCO QUALIFYING FACILITY1OT25","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KELCO QUALIFYING FACILITY1OT25","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Keller_Canyon1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keller_Canyon1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Keller_Canyon2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keller_Canyon2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kennecott Refinery1ST7.54","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kennecott Refinery1ST7.54","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kennecott Smelter1ST31.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kennecott Smelter1ST31.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kern_Front_KF1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kern_Front_KF1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kern_Front_KF1","VARMarginRatio",13,0,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731
+"Kern_Front_KF2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kern_Front_KF2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kern_Front_KF2","VARMarginRatio",13,0,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731,.7170731
+"KernRiverCgn1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KernRiverCgn1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KernRiverCgn2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KernRiverCgn2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KernRiverCgn3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KernRiverCgn3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KernRiverCgn4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KernRiverCgn4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KettleFalls1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KettleFalls1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KettleFalls2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KettleFalls2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KettleFalls2","VARMarginRatio",13,2032,.54,.54,.54,.54,.54,.54,.54,.54,.54,.54,.54,.54
+"Kiara_Anderson","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiara_Anderson","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kiefer Landfill 1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiefer Landfill 1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kiefer Landfill 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiefer Landfill 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kiefer Landfill 1-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiefer Landfill 1-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kiefer Landfill 2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiefer Landfill 2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kiefer Landfill 2-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kiefer Landfill 2-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kimball6IC3.9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kimball6IC3.9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"King City Cogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"King City Cogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KingCityPeaking","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KingCityPeaking","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kings Beach Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kings Beach Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KingsburgCgnCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KingsburgCgnCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KingsRiverGT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KingsRiverGT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Klamath CG CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Klamath CG CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Klamath CG CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Klamath CG CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KlamathExpGT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KlamathExpGT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"KlamathExpGT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KlamathExpGT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kyrene 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kyrene 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kyrene 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kyrene 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kyrene 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kyrene 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Kyrene 7 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Kyrene 7 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"La Luz Energy Center","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"La Luz Energy Center","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lake","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lake","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lake Side CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lake Side CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lake Side CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lake Side CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lake Side CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Lake Side CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lake Side CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lake Side CC2a","VARMarginRatio",13,0,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95,.95
+"Lake Side CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lake Side CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lakeview Dairy Biogas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lakeview Dairy Biogas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lambie_EC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lambie_EC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lange","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lange","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lange","VARMarginRatio",13,0,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89
+"LangleyGulchCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LangleyGulchCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LangleyGulchCC-Total","VARMarginRatio",13,0,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88
+"LANL TA 3 GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LANL TA 3 GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LANL TA-31GT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LANL TA-31GT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaPaloma1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaPaloma1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaPaloma2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaPaloma2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaPaloma3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaPaloma3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaPaloma4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaPaloma4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaramieRiver2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaramieRiver2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaramieRiver3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaramieRiver3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Larkspur1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Larkspur1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Larkspur2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Larkspur2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaRosita CFE CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaRosita CFE CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaRosita CFE CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaRosita CFE CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaRosita CFE CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaRosita CFE CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LaRosita2CC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LaRosita2CC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Animas5IC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Animas5IC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Animas6IC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Animas6IC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Animas7IC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Animas7IC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 1CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Vegas Cogen 1CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 2CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Vegas Cogen 2CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 2CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Vegas Cogen 2CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 2CC1b","VARMarginRatio",13,0,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89,.89
+"Las Vegas Cogen 2CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Vegas Cogen 2CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 2CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Las Vegas Cogen 2CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Las Vegas Cogen 2CC2b","VARMarginRatio",13,0,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93
+"LAX Airport Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LAX Airport Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Leathers","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Leathers","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Limon CT 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Limon CT 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Limon CT 1","VARMarginRatio",13,0,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333
+"Limon CT 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Limon CT 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Limon CT 2","VARMarginRatio",13,0,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333,.8933333
+"Lincoln Landfill IC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lincoln Landfill IC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lincoln4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lincoln4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LiveOakCogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LiveOakCogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lodi 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lodi 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lodi 1","VARMarginRatio",13,0,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938,.9335938
+"Lodi STIG","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lodi STIG","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LodiEnergyCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LodiEnergyCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lone Oak 2 Digester","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lone Oak 2 Digester","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongBeach_GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongBeach_GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongBeach_GT1","VARMarginRatio",13,0,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538,.8661538
+"LongBeach_GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongBeach_GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongBeach_GT2","VARMarginRatio",13,0,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307
+"LongBeach_GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongBeach_GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongBeach_GT3","VARMarginRatio",13,0,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307
+"LongBeach_GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongBeach_GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongBeach_GT4","VARMarginRatio",13,0,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307,.8692307
+"LongviewFibre4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongviewFibre4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongviewFibre6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongviewFibre6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LongviewFibre7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LongviewFibre7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lordsburg 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lordsburg 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lordsburg 1","VARMarginRatio",13,0,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488
+"Lordsburg 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lordsburg 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lordsburg 2","VARMarginRatio",13,0,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488,.9213488
+"Los Esteros CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Esteros CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Los Esteros CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Esteros CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Los Esteros CC1c","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Esteros CC1c","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Los Esteros CC1d","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Esteros CC1d","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Los Medanos EC CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Medanos EC CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Los Medanos EC CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Los Medanos EC CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LOUISIANA PACIFIC SAMOA","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LOUISIANA PACIFIC SAMOA","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Lowe1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lowe1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LTO2019_CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LTO2019_CC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LTO2019_CC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LTO2019_CC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LTO2019_CC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LTO2019_CC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"LTO2019_CC5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LTO2019_CC5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Luna CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Luna CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Luna CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Luna CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Madera Digester Genset 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Madera Digester Genset 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Madera Power Plant","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Madera Power Plant","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Magnolia Anaheim","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Magnolia Anaheim","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"Magnolia CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Magnolia CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Magnolia Cerritos","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Magnolia Cerritos","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"Magnolia1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Magnolia1","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Malburg CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Malburg CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Malburg CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Malburg CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mammoth G11BT10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mammoth G11BT10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mammoth G21ST15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mammoth G21ST15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mammoth G31BT14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mammoth G31BT14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Manchief 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Manchief 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Manchief 1","VARMarginRatio",13,0,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125
+"Manchief 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Manchief 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Manchief 2","VARMarginRatio",13,0,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125,.8703125
+"MarchPointCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarchPointCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Marina Land Fill Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Marina Land Fill Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Marion_Inc","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Marion_Inc","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mariposa1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mariposa1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mariposa2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mariposa2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mariposa3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mariposa3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mariposa4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mariposa4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MarshLanding1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarshLanding1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MarshLanding2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarshLanding2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MarshLanding3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarshLanding3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MarshLanding4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarshLanding4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MartinezCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MartinezCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Maxim_Burdett","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maxim_Burdett","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Maxim_Coaldale","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maxim_Coaldale","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Maxim_Taber","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maxim_Taber","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mazeppa_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mazeppa_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McClellan 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McClellan 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McClellan 1","VARMarginRatio",13,0,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459,.9459459
+"McClure 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McClure 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McClure 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McClure 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 1-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 1-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 1-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 1-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 2-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 2-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 2-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 2-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 3-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 3-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGinness Hills 3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGinness Hills 3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McGrathPeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McGrathPeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McKittrick_Ltd","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McKittrick_Ltd","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McKittrick_Ltd","VARMarginRatio",13,0,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684,.9393684
+"McKittrick1_RP","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McKittrick1_RP","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McMahon_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McMahon_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"McMahon_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"McMahon_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MedicineHat10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MedicineHat11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MedicineHat12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat12","VARMarginRatio",13,0,.919598,.919598,.919598,.919598,.919598,.919598,.919598,.919598,.919598,.919598,.919598,.919598
+"MedicineHat13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MedicineHat13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MedicineHat15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MedicineHat15","VARMarginRatio",13,0,.671875,.671875,.671875,.671875,.671875,.671875,.671875,.671875,.671875,.671875,.671875,.671875
+"MerrittGreen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MerrittGreen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mesquite CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mesquite CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mesquite CC1a","VARMarginRatio",13,0,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806
+"Mesquite CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mesquite CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mesquite CC1b","VARMarginRatio",13,0,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806,.9224806
+"Mesquite CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mesquite CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mesquite CC2a","VARMarginRatio",13,0,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744
+"Mesquite CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mesquite CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mesquite CC2b","VARMarginRatio",13,0,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744,.9539744
+"Metcalf CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Metcalf CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Metcalf CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Metcalf CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Metro Wastewater Treatment PlaIC1IC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Metro Wastewater Treatment PlaIC1IC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mexicali1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mexicali1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mexicali2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mexicali2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mexicali3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mexicali3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MidwaySunsetA","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MidwaySunsetA","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MidwaySunsetB","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MidwaySunsetB","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MidwaySunsetC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MidwaySunsetC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MillcreekPwrGen1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MillcreekPwrGen1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MillcreekPwrGen1","VARMarginRatio",13,0,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349,.8395349
+"MillcreekPwrGen2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MillcreekPwrGen2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MillcreekPwrGen2","VARMarginRatio",13,0,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302,.8209302
+"MintFarmCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MintFarmCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MiraLomaPeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MiraLomaPeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MiramarEnergy1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MiramarEnergy1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MiramarEnergy1","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"MiramarEnergy2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MiramarEnergy2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MiramarEnergy2","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"MLPTAS_7_QFUNTS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MLPTAS_7_QFUNTS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MM Lopez Energy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MM Lopez Energy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MM Tulare","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MM Tulare","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MM West Covina - ST Unit1ST6.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MM West Covina - ST Unit1ST6.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MM Yolo Power LLC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MM Yolo Power LLC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MM_SD_Miramar1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MM_SD_Miramar1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MMC-Escondido-Rpwr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MMC-Escondido-Rpwr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MN Milliken Genco LLC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MN Milliken Genco LLC","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Montana_1_G1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Montana_1_G1","Derate",3,0,1,1,1,1,1,.95,.95,.95,.95,1,1,1
+"Montana_1_G1","VARMarginRatio",13,0,.944206,.944206,.944206,.944206,.944206,.944206,.944206,.944206,.944206,.944206,.944206,.944206
+"Montana_2_G2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Montana_2_G2","Derate",3,0,1,1,1,1,1,.95,.95,.95,.95,1,1,1
+"Montana_2_G2","VARMarginRatio",13,0,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165
+"Montana_3_G3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Montana_3_G3","Derate",3,0,1,1,1,1,1,.95,.95,.95,.95,1,1,1
+"Montana_3_G3","VARMarginRatio",13,0,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165
+"Montana_4_G4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Montana_4_G4","Derate",3,0,1,1,1,1,1,.95,.95,.95,.95,1,1,1
+"Montana_4_G4","VARMarginRatio",13,0,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165,.9072165
+"Moss Landing CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Moss Landing CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Moss Landing CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Moss Landing CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Moss Landing CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Moss Landing CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Moss Landing CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Moss Landing CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MSQUIT_5_SERDYN1GT625","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MSQUIT_5_SERDYN1GT625","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mtnview CC3a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mtnview CC3a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mtnview CC3b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mtnview CC3b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mtnview CC4a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mtnview CC4a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mtnview CC4b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mtnview CC4b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MtPosoCogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MtPosoCogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Mulligan (MUL1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mulligan (MUL1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Murray GT 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Murray GT 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Murray GT 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Murray GT 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Murray GT 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Murray GT 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MuskegG2_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MuskegG2_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MustusEnergy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MustusEnergy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MWWTP PGS 1 - ENGINES","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MWWTP PGS 1 - ENGINES","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"MWWTP PGS 2 - Turbine","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MWWTP PGS 2 - Turbine","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Naughton1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Naughton1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Naughton2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Naughton2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NealHotSprings1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NealHotSprings1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NeboPwrStaCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NeboPwrStaCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Neil Simpson GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Neil Simpson GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Neil Simpson GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Neil Simpson GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Neil Simpson ST2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Neil Simpson ST2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NevadaCogen CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NevadaCogen CC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NevadaCogen CC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NevadaCogen CC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New Indy Oxnard1GT27.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New Indy Oxnard1GT27.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New York Canyon","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New York Canyon","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NEW_539S_13.8_G2_58380_G2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NEW_539S_13.8_G2_58380_G2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NEW_CMH16_550001_16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NEW_CMH16_550001_16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_DAISHOW9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_DAISHOW9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NEW_FIELDGA7_55272_JC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NEW_FIELDGA7_55272_JC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NEW_HOPECR8_56335_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NEW_HOPECR8_56335_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_CC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_CC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC17","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC17","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC18","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC18","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC19","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC19","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC20","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC20","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC51","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC51","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC52","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC52","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC54","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC54","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC55","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC55","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_LTO2019_SC57","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_LTO2019_SC57","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"New_REDW GT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"New_REDW GT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Newman CC5a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Newman CC5a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Newman CC5b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Newman CC5b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Newman CC7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Newman CC7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Newman_6GT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Newman_6GT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Newman_6GT5","VARMarginRatio",13,0,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083,.8820083
+"Newmont TS Power","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Newmont TS Power","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NGILAA_5_SDGDYN1CS57","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NGILAA_5_SDGDYN1CS57","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NGP Blue Mountain 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NGP Blue Mountain 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NGP Blue Mountain 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NGP Blue Mountain 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NGP Blue Mountain 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NGP Blue Mountain 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Niland 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Niland 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Niland 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Niland 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NilandAGT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NilandAGT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NilandBGT45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NilandBGT45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NonEmitting Peaker - Utah North","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NonEmitting Peaker - Utah North","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NonEmitting Peaker - Wyoming","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NonEmitting Peaker - Wyoming","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Brawley 01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Brawley 01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Brawley 02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Brawley 02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Brawley 03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Brawley 03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Brawley 04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Brawley 04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Loop 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Loop 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Loop 1","VARMarginRatio",13,0,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88
+"North Loop 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Loop 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Loop 2","VARMarginRatio",13,0,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88,.88
+"North Loop 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Loop 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Loop 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Loop 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"North Loop 4","VARMarginRatio",13,0,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238,.8095238
+"North Midway Cogens 5A 5B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Midway Cogens 5A 5B","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Northeast","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Northeast","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NRGrnWndfallPwr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NRGrnWndfallPwr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NrthwdGreenPwr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NrthwdGreenPwr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NV Geothermal Portfolio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NV Geothermal Portfolio","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"NV Geothermal Portfolio1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NV Geothermal Portfolio1","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"NW_Energy_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NW_Energy_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"NWMT IC Agg 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NWMT IC Agg 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Oakland_Pwr1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oakland_Pwr1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Oakland_Pwr2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oakland_Pwr2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Oakland_Pwr3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oakland_Pwr3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT1","VARMarginRatio",13,0,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194
+"Ocotillo GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT2","VARMarginRatio",13,0,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194,.8774194
+"Ocotillo GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ocotillo GT7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ocotillo GT7","Derate",3,0,1,1,1,1,1,.99,.99,.99,.99,1,1,1
+"Olive O1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Olive O1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Olive O2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Olive O2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Olive View MC Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Olive View MC Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"OLSChinoCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OLSChinoCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"OrangeGrove1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OrangeGrove1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"OrangeGrove2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OrangeGrove2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Oregon State University (OSU) (OSBHE) 2CA1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oregon State University (OSU) (OSBHE) 2CA1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Oregon State University (OSU) (OSBHE)1CT5.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oregon State University (OSU) (OSBHE)1CT5.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormat REG @ Peetz1OT3.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormat REG @ Peetz1OT3.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormesa 1 E","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormesa 1 E","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormesa 1 H","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormesa 1 H","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormesa I","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormesa I","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormesa II OEC22","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormesa II OEC22","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormond_Beach_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormond_Beach_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ormond_Beach_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ormond_Beach_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"OrovilleCogen1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OrovilleCogen1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Otay Mesa CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Otay Mesa CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Otay Mesa CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Otay Mesa CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ox_Mountain7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ox_Mountain7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pacific Ultrapower Chinese Station","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pacific Ultrapower Chinese Station","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Paisley Geothermal1ST3.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Paisley Geothermal1ST3.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Palo Verde 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Palo Verde 1","Derate",3,0,1,1,1,1,1,.98,.98,.98,.98,1,1,1
+"Palo Verde 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Palo Verde 2","Derate",3,0,1,1,1,1,1,.98,.98,.98,.98,1,1,1
+"Palo Verde 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Palo Verde 3","Derate",3,0,1,1,1,1,1,.98,.98,.98,.98,1,1,1
+"Palomar CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Palomar CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Palomar CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Palomar CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PanocheEC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PanocheEC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PanocheEC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PanocheEC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PanocheEC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PanocheEC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PanocheEC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PanocheEC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PanochePeakerCT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PanochePeakerCT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pasco (Oregon Street)GT1GT11.4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pasco (Oregon Street)GT1GT11.4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pasco (Oregon Street)GT2GT11.4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pasco (Oregon Street)GT2GT11.4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pasco (Oregon Street)GT3GT11.4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pasco (Oregon Street)GT3GT11.4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pasco (Oregon Street)GT4GT11.4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pasco (Oregon Street)GT4GT11.4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pastoria CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pastoria CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pastoria CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pastoria CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PastoriaCC2-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PastoriaCC2-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Patua 1A1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Patua 1A1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Patua 1A3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Patua 1A3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Patua 1A5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Patua 1A5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pawnee 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pawnee 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarez05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarez05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarez06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarez06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarez07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarez07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarez08 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarez08 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarez09 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarez09 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarezCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarezCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarezGT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarezGT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PdteJuarezGT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PdteJuarezGT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PE-BerkeleyCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PE-BerkeleyCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PGE San Francisco State Fuel Cell","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PGE San Francisco State Fuel Cell","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PGP_Bio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PGP_Bio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Phillips_Carbon","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phillips_Carbon","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Phillips_RodeoA","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phillips_RodeoA","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Phillips_RodeoA","VARMarginRatio",13,0,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617
+"Phillips_RodeoB","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phillips_RodeoB","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Phillips_RodeoB","VARMarginRatio",13,0,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617
+"Phillips_RodeoC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phillips_RodeoC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Phillips_RodeoC","VARMarginRatio",13,0,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617,.7700617
+"PioPicoEnergyCenter1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PioPicoEnergyCenter1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PioPicoEnergyCenter2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PioPicoEnergyCenter2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PioPicoEnergyCenter3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PioPicoEnergyCenter3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G15","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G15","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G17","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G17","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G18","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G18","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G19","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G19","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 1 G20","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 1 G20","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G13","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G13","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plains End 2 G14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plains End 2 G14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Plummer_Cgn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Plummer_Cgn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Poplar_Hill_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Poplar_Hill_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Port Townsend Paper MillST6ST7.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Port Townsend Paper MillST6ST7.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortofStocktonEF","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortofStocktonEF","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd1CC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd1CC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-11","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-11","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PortWestwrd2-12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PortWestwrd2-12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Powell_River12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Powell_River12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Praxair1OT25","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Praxair1OT25","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Praxair2OT6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Praxair2OT6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Presco Energy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Presco Energy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PRIMA DESCHECHA (CAPISTRANO)1IC6.1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRIMA DESCHECHA (CAPISTRANO)1IC6.1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Primrose East 641S Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Primrose East 641S Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PROCTER  AND  GAMBLE OXNARD II1GT49.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PROCTER  AND  GAMBLE OXNARD II1GT49.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PROCTER  AND  GAMBLE OXNARD II1GT49.5","VARMarginRatio",13,0,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303,.9030303
+"Procter and Gamble Oxnard 11CC19.88","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Procter and Gamble Oxnard 11CC19.88","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"PSWEET_7_QFUNTS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PSWEET_7_QFUNTS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pueblo Airport 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pueblo Airport 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pueblo Airport 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pueblo Airport 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pueblo Airport 3 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pueblo Airport 3 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pueblo Airport 4 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pueblo Airport 4 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pueblo IC 1-5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pueblo IC 1-5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Puente_Hills1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Puente_Hills1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Puget_Sound","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Puget_Sound","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pyramid 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pyramid 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pyramid 1","VARMarginRatio",13,0,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652
+"Pyramid 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pyramid 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pyramid 2","VARMarginRatio",13,0,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652,.8695652
+"Pyramid 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pyramid 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pyramid 3","VARMarginRatio",13,0,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217
+"Pyramid 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pyramid 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Pyramid 4","VARMarginRatio",13,0,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217,.8565217
+"Qualco Dairy DigesterIC1IC0.45","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Qualco Dairy DigesterIC1IC0.45","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Quincy Biomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Quincy Biomass","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Raft River Geothermal","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Raft River Geothermal","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rainbow4_4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rainbow4_4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rainbow5_5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rainbow5_5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ralston_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ralston_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RAMON_2_SCEDYN1ST359.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RAMON_2_SCEDYN1ST359.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rathdrum_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rathdrum_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rathdrum_1","VARMarginRatio",13,0,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314,.9348314
+"Rathdrum_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rathdrum_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rathdrum_2","VARMarginRatio",13,0,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545,.9454545
+"RathdrumCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RathdrumCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide A","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide A","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide B","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide C","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide C","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide D","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide D","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rawhide F","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rawhide F","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ray D Nixon 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ray D Nixon 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ray D Nixon GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ray D Nixon GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ray D Nixon GT1","VARMarginRatio",13,0,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9,.9
+"Ray D Nixon GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ray D Nixon GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ray D Nixon GT2","VARMarginRatio",13,0,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286,.7714286
+"RECTOR QFS1OT17","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RECTOR QFS1OT17","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Red Hawk CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Red Hawk CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Red Hawk CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Red Hawk CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Red Hawk CC1b","VARMarginRatio",13,0,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86
+"Red Hawk CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Red Hawk CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Red Hawk CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Red Hawk CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Red Hawk CC2b","VARMarginRatio",13,0,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86,.86
+"Red_Bluff_IC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Red_Bluff_IC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redding Power 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redding Power 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redding Power 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redding Power 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redding Power 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redding Power 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redding Power CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redding Power CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redding Power CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redding Power CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RedondoBeach5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RedondoBeach5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RedondoBeach6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RedondoBeach6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RedondoBeach8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RedondoBeach8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"REDWATER_GT_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"REDWATER_GT_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Redwood Renewable Energy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Redwood Renewable Energy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Reeves 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reeves 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Reeves 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reeves 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Reeves 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reeves 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RHODIA INC. (RHONE-POULENC)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RHODIA INC. (RHONE-POULENC)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Richard Burdette 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Richard Burdette 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Richard Burdette 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Richard Burdette 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RichmondCgn1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RichmondCgn1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rifle CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rifle CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rio Bravo","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rio Bravo","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rio Bravo","VARMarginRatio",13,0,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216,.8861216
+"Rio Bravo Fresno","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rio Bravo Fresno","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RioBravoRocklin","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RioBravoRocklin","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RioGrande9","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RioGrande9","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RioGrande9","VARMarginRatio",13,0,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158,.9263158
+"Ripon 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ripon 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ripon 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ripon 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Ripon_Mill_GEN1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ripon_Mill_GEN1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"River Bend Landfill Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"River Bend Landfill Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"River_Road","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"River_Road","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RiversideERC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RiversideERC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RiversideERC1","VARMarginRatio",13,0,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273
+"RiversideERC2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RiversideERC2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RiversideERC2","VARMarginRatio",13,0,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273,.8727273
+"RiversideERC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RiversideERC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RiversideERC3","VARMarginRatio",13,0,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889,.8888889
+"RiversideERC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RiversideERC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RiversideERC4","VARMarginRatio",13,0,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769,.9230769
+"Riverview_EC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Riverview_EC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rockwood 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rockwood 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rockwood 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rockwood 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rocky Ford 1-5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rocky Ford 1-5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rocky Mtn CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rocky Mtn CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rocky Mtn CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rocky Mtn CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rocky Mtn CC1b","VARMarginRatio",13,0,.97,.97,.97,.97,.97,.97,.97,.97,.97,.97,.97,.97
+"Roseburg Biomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Biomass","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Roseburg Forest Products Company - Dillard1ST5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard1ST5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Forest Products Company - Dillard2ST5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard2ST5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Forest Products Company - Dillard3ST8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard3ST8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Forest Products Company - Dillard4ST13.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard4ST13.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Forest Products Company - Dillard5ST11.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard5ST11.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Forest Products Company - Dillard6ST11.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Forest Products Company - Dillard6ST11.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseburg Landfill Gas Energy (South Gate)1IC1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseburg Landfill Gas Energy (South Gate)1IC1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RoseburgBiomass","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RoseburgBiomass","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseville 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseville 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseville 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseville 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseville EP CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseville EP CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseville Peakers TM25001GT35.2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseville Peakers TM25001GT35.2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Roseville Peakers TM25002GT35.2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Roseville Peakers TM25002GT35.2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"RuAnn Dairy Digester BioMAT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RuAnn Dairy Digester BioMAT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rupert_Cgn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rupert_Cgn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rupert_GT_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rupert_GT_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Rupert_GT_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rupert_GT_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Russell City CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Russell City CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Russell City CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Russell City CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Saddle Hills (SDH1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Saddle Hills (SDH1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Saguaro AZ 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Saguaro AZ 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Saguaro AZ 1","VARMarginRatio",13,0,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226,.7903226
+"Saguaro AZ 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Saguaro AZ 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Saguaro AZ 2","VARMarginRatio",13,2032,.62,.62,.62,.62,.62,.62,.62,.62,.62,.62,.62,.62
+"Saguaro CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Saguaro CC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Saguaro GE1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Saguaro GE1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SalinasRiverCgn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SalinasRiverCgn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salmon Diesel Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salmon Diesel Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salt Lake Energy Systems Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salt Lake Energy Systems Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salt Wells 1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salt Wells 1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea 11BT9.59","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea 11BT9.59","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea 31BT51.89","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea 31BT51.89","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea Unit 2 G1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea Unit 2 G1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea Unit 2 G2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea Unit 2 G2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton Sea Unit 2 G3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton Sea Unit 2 G3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Salton SeaIVBT44","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Salton SeaIVBT44","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"San Bernardino Biogas1GT2.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"San Bernardino Biogas1GT2.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"San Emidio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"San Emidio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"San Emidio 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"San Emidio 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SANIGEN_24324_D1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SANIGEN_24324_D1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SanMarcosEnrgy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SanMarcosEnrgy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SANTA CLARA QFS1ST1.65","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SANTA CLARA QFS1ST1.65","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santa Cruz Energy LLC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santa Cruz Energy LLC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SANTA CRUZ LANDFILL GENERATING PLANT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SANTA CRUZ LANDFILL GENERATING PLANT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santa Maria II LFG Power Plant","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santa Maria II LFG Power Plant","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan 6 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan 6 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan CC5a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan CC5a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Santan CC5b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Santan CC5b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SantaYnezCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SantaYnezCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SAUGUS QFS","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SAUGUS QFS","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Savona_ERG_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Savona_ERG_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SCACogen2 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCACogen2 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SCACogen2GT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCACogen2GT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Scat CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scat CC1","Derate",3,0,1,1,1,1,1,.94,.94,.94,.94,1,1,1
+"Scattergood 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scattergood 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Scattergood 7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scattergood 7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Scattergood CC3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scattergood CC3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Scattergood CC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scattergood CC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SCCT FRAME NTN (GT-66050-01)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCCT FRAME NTN (GT-66050-01)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SCCT FRAME NTN (GT-66050-02)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCCT FRAME NTN (GT-66050-02)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"ScotfordUpgdCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ScotfordUpgdCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SE_Resource","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SE_Resource","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Second Imperial Geothermal13BT16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Second Imperial Geothermal13BT16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Second Imperial Geothermal14BT16","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Second Imperial Geothermal14BT16","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Second Imperial01-12","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Second Imperial01-12","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SeeGen_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SeeGen_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Seneca Sustainable Energy ProjST1ST19.77","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Seneca Sustainable Energy ProjST1ST19.77","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SentinelEnergyCTG8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SentinelEnergyCTG8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shasta1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shasta1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shasta2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shasta2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shasta3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shasta3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shasta4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shasta4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sheerness 1 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sheerness 1 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sheerness 2 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sheerness 2 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SHELL OIL REFINERY AGGREGATE","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SHELL OIL REFINERY AGGREGATE","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shepard EC CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shepard EC CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shepard EC CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shepard EC CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shute_Creek021A","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shute_Creek021A","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shute_Creek021A","VARMarginRatio",13,0,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553
+"Shute_Creek021B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shute_Creek021B","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shute_Creek021B","VARMarginRatio",13,0,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553,.8418553
+"Shute_Creek021C","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shute_Creek021C","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Shute_Creek021C","VARMarginRatio",13,0,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445,.8369445
+"Silverhawk CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Silverhawk CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Silverhawk CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Silverhawk CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Simplot_Leasing","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Simplot_Leasing","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Simplot_Leasing (ST-60125-G1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Simplot_Leasing (ST-60125-G1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SimpsonTacoma","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SimpsonTacoma","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SISW FLGE1OT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SISW FLGE1OT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SJ-SCL W_35861_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SJ-SCL W_35861_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SJ-SCL W_35861_1","VARMarginRatio",13,0,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333,.8333333
+"Skookumchuk","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Skookumchuk","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Skookumchuk 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Skookumchuk 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SlaveLakePulp","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SlaveLakePulp","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Small QF Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Small QF Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SMALL QF AGGREGATION - OAKLAND","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SMALL QF AGGREGATION - OAKLAND","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SMALL QF AGGREGATION - SAB FRABCUSCI","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SMALL QF AGGREGATION - SAB FRABCUSCI","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SMALL QF AGGREGATION - SANTA CRUZ","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SMALL QF AGGREGATION - SANTA CRUZ","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SMUD Regulation Market","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SMUD Regulation Market","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Snowflake White Mtn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Snowflake White Mtn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Soda Lake Geothermal","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Soda Lake Geothermal","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Solano_Geothermal (Generic)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Solano_Geothermal (Generic)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SONOMA POWER PLANT","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SONOMA POWER PLANT","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SonomaCentralLF1+2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SonomaCentralLF1+2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"South Edmonton Terminal (SET1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"South Edmonton Terminal (SET1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"South Point CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"South Point CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"South Point CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"South Point CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"South Point CC1b","VARMarginRatio",13,0,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91
+"SouthBelridge1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SouthBelridge1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SouthBelridge2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SouthBelridge2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SouthBelridge3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SouthBelridge3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Southpoint Energy Center1CS200","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Southpoint Energy Center1CS200","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SPA Cogen 3 CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SPA Cogen 3 CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Spindle Hill 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Spindle Hill 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Spindle Hill 1","VARMarginRatio",13,2032,.8944,.8944,.8944,.8944,.8944,.8944,.8944,.8944,.8944,.8944,.8944,.8944
+"Spindle Hill 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Spindle Hill 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Spindle Hill 2","VARMarginRatio",13,2032,.8788,.8788,.8788,.8788,.8788,.8788,.8788,.8788,.8788,.8788,.8788,.8788
+"SPISONORA_34055_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SPISONORA_34055_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Spokane1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Spokane1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springerville 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springerville 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springerville 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springerville 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springerville 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springerville 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springerville 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springerville 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springfield1IC1.2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springfield1IC1.2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springfield2IC0.2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springfield2IC0.2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springfield3IC0.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springfield3IC0.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springfield4IC0.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springfield4IC0.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springs1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springs1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Springs2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Springs2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Squamish","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Squamish","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SRI_Int_Cgn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SRI_Int_Cgn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"StanislausEnrgy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"StanislausEnrgy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stanton 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stanton 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stanton_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stanton_2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Star Peak 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Star Peak 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Starwood1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Starwood1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Starwood2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Starwood2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Steamboat 2-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Steamboat 2-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Steamboat 2-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Steamboat 2-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Steamboat 3-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Steamboat 3-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Steamboat 3-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Steamboat 3-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stillwater Geo 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stillwater Geo 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stillwater Geo 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stillwater Geo 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stillwater Geo 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stillwater Geo 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stillwater Geo 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stillwater Geo 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Stoltze BiomassST1ST2.89","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Stoltze BiomassST1ST2.89","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SumasPowerCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SumasPowerCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SummitG1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SummitG1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SummitG2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SummitG2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SummitG3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SummitG3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Suncor Base Plant Cogen 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Suncor Base Plant Cogen 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Suncor Base Plant Cogen 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Suncor Base Plant Cogen 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AB 4 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AB 4 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AB 6 Gas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AB 6 Gas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 01","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 02","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 03","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 04","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 05","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 06","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 07","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 08","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 09","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundance AZ 10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundance AZ 10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundance AZ 10","VARMarginRatio",13,0,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545,.8954545
+"Sundt RICE 01","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 01","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 02","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 02","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 03","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 03","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 04","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 04","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 05","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 05","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 06","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 06","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 07","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 07","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 08","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 08","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 09","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 09","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sundt RICE 10","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sundt RICE 10","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sunnyside_Cgn","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sunnyside_Cgn","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SunPeak NVE 5657","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SunPeak NVE 5657","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SunPeak NVE 5658","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SunPeak NVE 5658","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SunPeak NVE 5659","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SunPeak NVE 5659","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sunrise CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sunrise CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sunrise CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sunrise CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"SunSelect 11GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SunSelect 11GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sunshine Gas Producers1GT20","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sunshine Gas Producers1GT20","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sutter EC CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sutter EC CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sutter EC CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sutter EC CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore_CgnAB","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore_CgnAB","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore_CgnBG","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore_CgnBG","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore_CgnCG","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore_CgnCG","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore_CgnDG","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore_CgnDG","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore1-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore1-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Sycamore1-3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sycamore1-3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tajiguas Resorce","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tajiguas Resorce","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tamarack","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tamarack","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TECHNICAST","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TECHNICAST","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TermoMexiCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TermoMexiCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TesoroCgn1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TesoroCgn1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TesoroCgn2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TesoroCgn2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tex/Equilon LA Refinery G1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tex/Equilon LA Refinery G1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tex/Equilon LA Refinery G2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tex/Equilon LA Refinery G2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tex/Equilon LA Refinery G3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tex/Equilon LA Refinery G3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TEXACO EXPLORATION & PROD (SE KERN RIVER","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TEXACO EXPLORATION & PROD (SE KERN RIVER","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TEXACO EXPLORATION & PROD (SE KERN RIVER","VARMarginRatio",13,0,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898,.7832898
+"Thermo I","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Thermo I","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #11GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #11GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #11GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"TNGG #22GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #22GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #22GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"TNGG #33GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #33GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #33GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"TNGG #44GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #44GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #44GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"TNGG #55GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #55GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #55GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"TNGG #66GT29.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TNGG #66GT29.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"TNGG #66GT29.7","VARMarginRatio",13,0,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909,.9090909
+"Tosco2OT58.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tosco2OT58.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Toyan LFG IC Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Toyan LFG IC Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy CA CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy CA CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy CA CC1a","VARMarginRatio",13,0,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87
+"Tracy CA CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy CA CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy CA CC1b","VARMarginRatio",13,0,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87,.87
+"Tracy NV CC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy NV CC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy NV CC2a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy NV CC2a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tracy NV CC2b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tracy NV CC2b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trans-Jordan Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trans-Jordan Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trinidad3","FixedCost",2,0,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+"Trinidad3","VARMarginRatio",13,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trinidad4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trinidad4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trinidad5IC1.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trinidad5IC1.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trinidad6IC1.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trinidad6IC1.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Trinidad7IC1.8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trinidad7IC1.8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tulare BioMAT Fuel Cell","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tulare BioMAT Fuel Cell","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tungsten 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tungsten 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tungsten 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tungsten 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tungsten Mountain Geothermal1ST24","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tungsten Mountain Geothermal1ST24","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tuscarora G9200","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tuscarora G9200","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Tuscarora G9201","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tuscarora G9201","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Two Fiets Dairy Digester","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Two Fiets Dairy Digester","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"U of AZ Cogen 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"U of AZ Cogen 1","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"UCLA Chiller CG1CA14","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UCLA Chiller CG1CA14","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"UCLA Chiller CG2CT14.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UCLA Chiller CG2CT14.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"UCLA Chiller CG3CT14.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UCLA Chiller CG3CT14.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"University of Oregon CoGen Pro","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"University of Oregon CoGen Pro","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"University of Oregon CoGen ProCT1CT3.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"University of Oregon CoGen ProCT1CT3.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"US_Borax_GEN1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"US_Borax_GEN1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"US_Borax_GEN1","VARMarginRatio",13,0,.78125,.78125,.78125,.78125,.78125,.78125,.78125,.78125,.78125,.78125,.78125,.78125
+"US_Magnesium1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"US_Magnesium1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"US_Magnesium1","VARMarginRatio",13,2032,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66
+"US_Magnesium2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"US_Magnesium2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"US_Magnesium2","VARMarginRatio",13,2032,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66
+"US_Magnesium3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"US_Magnesium3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"US_Magnesium3","VARMarginRatio",13,2032,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66,.66
+"VacaDixonPeaker","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"VacaDixonPeaker","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia AZ 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valencia AZ 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia AZ 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valencia AZ 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia AZ 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valencia AZ 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia AZ 4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valencia AZ 4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia NM 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valencia NM 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valencia NM 1","VARMarginRatio",13,0,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633,.9050633
+"Valley CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valley CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valley CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valley CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valley CC1b","VARMarginRatio",13,0,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94,.94
+"Valley Unit 5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valley Unit 5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valley Unit 5","VARMarginRatio",13,0,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826,.9347826
+"Valleyview1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valleyview1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valleyview2_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valleyview2_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valmont 6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valmont 6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valmont 7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valmont 7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Valmont 8","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Valmont 8","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Vancouver1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vancouver1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Vancouver2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vancouver2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Vasco Road","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vasco Road","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Veyo Waste Heat Generator1OT9.5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Veyo Waste Heat Generator1OT9.5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Victorville EC 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Victorville EC 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"VISTA QFS1OT0.18","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"VISTA QFS1OT0.18","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Vulcan 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vulcan 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Vulcan 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vulcan 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WadhamEnrgy","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WadhamEnrgy","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Walnut 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Walnut 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Walnut 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Walnut 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Walnut Energy CC1a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Walnut Energy CC1a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Walnut Energy CC1b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Walnut Energy CC1b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Walnut Energy CC1b","VARMarginRatio",13,0,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91,.91
+"WalnutCreekEPark1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WalnutCreekEPark1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WalnutCreekEPark2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WalnutCreekEPark2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WalnutCreekEPark3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WalnutCreekEPark3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WalnutCreekEPark4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WalnutCreekEPark4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WalnutCreekEPark5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WalnutCreekEPark5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wasatch Integrated Waste Manag1ST1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wasatch Integrated Waste Manag1ST1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Waste Management Landfill1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Waste Management Landfill1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Waste Management Landfill2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Waste Management Landfill2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Waste Management Lockwood LFGT1IC1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Waste Management Lockwood LFGT1IC1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Waste Management Lockwood LFGT2IC1.6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Waste Management Lockwood LFGT2IC1.6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WatsonCogenCC-Total","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WatsonCogenCC-Total","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeldwoodTG1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeldwoodTG1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeldwoodTG2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeldwoodTG2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wellhead Power Delano1GT49","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wellhead Power Delano1GT49","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Cadotte_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Cadotte_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Pembina (PMB1)","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Pembina (PMB1)","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Phoenix 1B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix 1B","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"West Phoenix 1B","VARMarginRatio",13,0,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93
+"West Phoenix 2B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix 2B","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"West Phoenix 2B","VARMarginRatio",13,0,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93
+"West Phoenix 3B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix 3B","Derate",3,0,1,1,1,1,1,.92,.92,.92,.92,1,1,1
+"West Phoenix 3B","VARMarginRatio",13,0,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93,.93
+"West Phoenix CC5a","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix CC5a","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Phoenix CC5b","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix CC5b","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Phoenix GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West Phoenix GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West Phoenix GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West_Valley1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley1","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"West_Valley2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West_Valley2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley2","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"West_Valley3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West_Valley3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley3","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"West_Valley4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West_Valley4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley4","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"West_Valley5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"West_Valley5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"West_Valley5","VARMarginRatio",13,0,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85,.85
+"Western A101","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western A101","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western B102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western B102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western B202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western B202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western C102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western C102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western C202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western C202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western D101","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western D101","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western E102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western E102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western E202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western E202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western F102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western F102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western F202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western F202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western G102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western G102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western G202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western G202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western H102","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western H102","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western H202","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western H202","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Western Power and Steam Cogeneration","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Western Power and Steam Cogeneration","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WESTLOCKG1_1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WESTLOCKG1_1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WestPhoenix CC4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WestPhoenix CC4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WestPointTP Agrr","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WestPointTP Agrr","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Weststar Dairy Biogas","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Weststar Dairy Biogas","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WEY 13G1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WEY 13G1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WEY 13T1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WEY 13T1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeyerhaeuserBio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeyerhaeuserBio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeyerhaeuserWA1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeyerhaeuserWA1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeyerhaeuserWA2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeyerhaeuserWA2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeyerhaeuserWA3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeyerhaeuserWA3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WeyerhaeuserWA4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WeyerhaeuserWA4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WHITECOURT_CGN","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WHITECOURT_CGN","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Whitehorn_2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Whitehorn_2","Derate",3,0,1,1,1,1,1,.83,.83,.83,.83,1,1,1
+"Whitehorn_2","VARMarginRatio",13,0,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406,.8261406
+"Whitehorn_3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Whitehorn_3","Derate",3,0,1,1,1,1,1,.83,.83,.83,.83,1,1,1
+"Whitehorn_3","VARMarginRatio",13,0,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621,.7919621
+"Wild Rose 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wild Rose 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wild Rose 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wild Rose 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WilmingtonCalciner","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WilmingtonCalciner","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WM Landfill1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WM Landfill1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WM Landfill2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WM Landfill2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WM Landfill3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WM Landfill3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WM Landfill4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WM Landfill4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wolfskill","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wolfskill","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3A","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3A","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3B","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3B","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3C","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3C","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3D","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3D","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3E","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3E","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland 3F","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland 3F","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Woodland_Bio","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Woodland_Bio","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WSU - Biotech LS1IC1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WSU - Biotech LS1IC1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"WSU - Grimes Way Agg","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WSU - Grimes Way Agg","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wygen 1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wygen 1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wygen 2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wygen 2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wygen 3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wygen 3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Wyodak","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Wyodak","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yellowstone_Eng","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yellowstone_Eng","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yuba_City_Cogen","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yuba_City_Cogen","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yuba_City_EC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yuba_City_EC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT1","VARMarginRatio",13,0,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075
+"Yucca GT2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT2","VARMarginRatio",13,0,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075,.8041075
+"Yucca GT21","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT21","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT3","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT3","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT4","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT4","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT4","VARMarginRatio",13,0,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903,.9427903
+"Yucca GT5","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT5","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yucca GT6","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yucca GT6","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yuma Axis1ST86.7","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yuma Axis1ST86.7","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Yuma Cogen CC","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yuma Cogen CC","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"znSTAVELY9-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"znSTAVELY9-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"zzebraNLG-.4G-1","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"zzebraNLG-.4G-1","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1
+"zzebraNLG-.4G-2","FixedCost",2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"zzebraNLG-.4G-2","Derate",3,0,1,1,1,1,1,1,1,1,1,1,1,1

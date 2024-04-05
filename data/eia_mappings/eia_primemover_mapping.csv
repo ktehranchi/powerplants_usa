@@ -1,0 +1,24 @@
+Prime Mover,prime_mover
+BA,"Energy Storage, Battery "
+CE,"Energy Storage, Compressed Air"
+CP,"Energy Storage, Concentrated Solar Power"
+FW,"Energy Storage, Flywheel "
+PS,"Energy Storage, Reversible Hydraulic Turbine (Pumped Storage)"
+ES,"Energy Storage, Other "
+ST,"Steam Turbine, including nuclear, geothermal and solar steam (does NOT include combined cycle)"
+GT,Combustion (Gas) Turbine
+IC,Internal Combustion Engine
+CA,Combined Cycle Steam Part
+CT,Combined Cycle Combustion Turbine Part
+CS,Combined Cycle Single Shaft
+CC,Combined Cycle Total Unit (planned undetermined plants)
+HA,"Hydrokinetic, Axial Flow Turbine"
+HB,"Hydrokinetic, Wave Buoy"
+HK,"Hydrokinetic, Other"
+HY,Hydroelectric Turbine
+BT,Turbines Used in a Binary Cycle (including those used for geothermal applications)
+PV,Photovoltaic
+WT,"Wind Turbine, Onshore"
+WS,"Wind Turbine, Offshore"
+FC,Fuel Cell
+OT,Other

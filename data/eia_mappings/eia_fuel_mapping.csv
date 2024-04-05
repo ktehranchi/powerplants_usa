@@ -1,0 +1,40 @@
+Energy Source 1,fuel_type,fuel_name
+ANT,coal,Anthracite Coal 
+BIT,coal,Bituminous Coal
+LIG,coal,Lignite Coal
+SGC,coal,Coal-Derived Synthesis Gas
+SUB,coal,Subbituminous Coal
+WC,coal,Waste/Other Coal
+RC,coal,Refined Coal
+DFO,oil,Distillate Fuel Oil
+JF,oil,Jet Fuel
+KER,oil,Kerosene
+PC,oil,Petroleum Coke
+PG,oil,Gaseous Propane
+RFO,oil,Residual Fuel Oil
+SGP,oil,Synthesis Gas from Petroleum Coke
+WO,oil,Waste/Other Oil 
+BFG,gas,Blast Furnace Gas
+NG,gas,Natural Gas
+H2,gas,Hydrogen
+OG,gas,Other Gas
+AB,waste,Agricultural By-Products
+MSW,waste,Municipal Solid Waste
+OBS,waste,Other Biomass Solids
+WDS,waste,Wood/Wood Waste Solids
+OBL,biomass,Other Biomass Liquids 
+SLW,biomass,Sludge Waste
+BLQ,biomass,Black Liquor
+WDL,biomass,Wood Waste Liquids excluding Black Liquor
+LFG,biomass,Landfill Gas
+OBG,biomass,Other Biomass Gas
+SUN,solar,Solar
+WND,wind,Wind
+GEO,geothermal,Geothermal
+WAT,hydro,Water
+NUC,nuclear,Nuclear
+PUR,other,Purchased Steam
+WH,other,Waste heat not directly attributed to a fuel source (undetermined)
+TDF,other,Tire-derived Fuels
+MWH,other,Energy Storage
+OTH,other,Other

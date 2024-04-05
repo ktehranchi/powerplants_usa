@@ -1,0 +1,28 @@
+Technology,tech_type
+Petroleum Liquids,oil
+Onshore Wind Turbine,onwind
+Conventional Hydroelectric,hydro
+Natural Gas Steam Turbine,CCGT
+Conventional Steam Coal,coal
+Natural Gas Fired Combined Cycle,CCGT
+Natural Gas Fired Combustion Turbine,OCGT
+Nuclear,nuclear
+Hydroelectric Pumped Storage,hydro
+Natural Gas Internal Combustion Engine,OCGT
+Solar Photovoltaic,solar
+Geothermal,geothermal
+Landfill Gas,biomass
+Batteries,battery
+Wood/Wood Waste Biomass,biomass
+Coal Integrated Gasification Combined Cycle,coal
+Other Gases,other
+Petroleum Coke,oil
+Municipal Solid Waste,waste
+Natural Gas with Compressed Air Storage,other
+All Other,other
+Other Waste Biomass,biomass
+Solar Thermal without Energy Storage,solar
+Other Natural Gas,other
+Solar Thermal with Energy Storage,solar
+Flywheels,other
+Offshore Wind Turbine,offwind
