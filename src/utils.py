@@ -94,12 +94,6 @@ def convert_mixed_types_and_floats(df):
     
     # Apply the conversion function to each column in the DataFrame
     df = df.apply(convert_if_mixed)
-    
-    # # Convert float columns without decimal parts to integers
-    # for col in df.select_dtypes(include=['float']).columns:
-    #     if df[col].dropna().apply(float.is_integer).all():
-    #         df[col] = df[col].astype(pd.Int64Dtype())
-    
     return df
 
 
